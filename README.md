@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaydenCellers
 - 👀 I’m interested in learning everything to do with data analysis and statistics.
-- 🌱 I’m currently learning SQL, Tableau, Python, PySpark, TensorFlow, and R.
+- 🌱 I’m currently learning SQL, Tableau, Python, PySpark, TensorFlow, and more!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: my email: jaydencellers@gmail.com
 
