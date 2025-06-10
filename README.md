@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaydenCellers
-- 👀 I’m interested in learning everything to do with data analysis and statistics.
+- 👀 I’m interested in learning everything to do with data analytics, data science, and backend development.
 - 🌱 I’m currently learning SQL, Tableau, Python, PySpark, TensorFlow, and more!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: jaydencellers@gmail.com
